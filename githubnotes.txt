@@ -1,0 +1,20 @@
+1)install github
+
+2)configure github using gitbash
+
+git config --global user.email "nimishahsm@gmail.com"
+git config --global user.name "nimishahsm"
+
+pushing to github
+
+3)for the first time we should track the folder
+
+
+git init
+git add *(to add all files)
+[git add *.txt  / git add *.html]git add first.html
+git status
+git commit -m "Message"
+git remote add origin url of repository
+git push -u origin master
+
