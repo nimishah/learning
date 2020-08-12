@@ -18,3 +18,7 @@ git commit -m "Message"
 git remote add origin url of repository
 git push -u origin master
 
+git clone repository url
+
+git pull
+
